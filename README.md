@@ -48,7 +48,7 @@ uv sync
 uv run jupyter lab
 ```
 
-Os exemplos de código em PySpark/Python para instanciar o Spark e realizar a criação e manipulação de uma tabela Delta Lake encontram-se no arquivo localizado em `ipynb_checkpoints/Delta-checkpoint.ipynb`.  
+Os exemplos de código em PySpark/Python para instanciar o Spark e realizar a criação e manipulação de uma tabela Delta Lake encontram-se no arquivo localizado em `notebooks/Delta.ipynb`.  
 
 ### Operações comuns que podem ser testadas no projeto:
 
