@@ -32,5 +32,5 @@ uv run jupyter lab
 ```markdown
 # Delta Lake
 
-Os exemplos de código em *PySpark/Python* para instanciar o *Spark* e realizar a criação e manipulação de uma tabela *Delta Lake* encontram-se no arquivo: ipynb_checkpoints/Delta-checkpoint.ipynb
+Os exemplos de código em *PySpark/Python* para instanciar o *Spark* e realizar a criação e manipulação de uma tabela *Delta Lake* encontram-se no arquivo: notebooks/Delta.ipynb
 
