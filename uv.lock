@@ -387,7 +387,7 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-    { name = "delta-spark", specifier = ">=3.3.1" },
+    { name = "delta-spark", specifier = ">=2.4.0" },
     { name = "jupyterlab", specifier = ">=4.2.3" },
     { name = "pyiceberg", specifier = ">=0.10.0" },
     { name = "pyspark", specifier = ">=3.5.1" },

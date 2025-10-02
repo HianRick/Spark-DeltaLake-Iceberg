@@ -1,0 +1,8 @@
+# Dados Delta/Iceberg
+delta-tables/
+iceberg-tables/
+spark-warehouse/
+
+# Ambiente virtual
+.venv/
+__pycache__/
