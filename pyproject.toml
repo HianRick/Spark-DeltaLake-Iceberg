@@ -1,11 +1,12 @@
 [project]
-name = "pyspark-env"
-description = "Ambiente PySpark + JupyterLab + Delta Lake + Iceberg"
+name = "delta-ice"
+version = "0.1.0"
+description = "Ambiente PySpark + Delta Lake + Iceberg"
 requires-python = ">=3.11"
 
 dependencies = [
-    "jupyterlab==4.2.3",
-    "pyspark==3.5.1",
-    "delta-spark==3.2.0",
-    "pyiceberg==0.6.1"
+    "pyspark>=3.5.1",
+    "delta-spark>=3.2.0",
+    "pyiceberg>=0.10.0",
+    "jupyterlab>=4.2.3"
 ]
